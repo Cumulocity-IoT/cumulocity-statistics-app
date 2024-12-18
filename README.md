@@ -8,5 +8,5 @@ Also the Usage Statistics Application is released under a community license and 
 ## We want your feedback!
 The `Usage Statistics Application` is available to you in a public preview so that we can collect your feedback. Please share any and all of your feedback, both positive and negative, on the [Cumulocity IoT Feedback Portal](https://cumulocityiot.ideas.aha.io/). 
 
-Please note that this tool is provided as-is and withuot warranty or support. It does not constitute part of the Cumulocity product suite. 
-This application works best with [Google Chrome](https://www.google.com/chrome/) and Cumulocity UI version as mentioned below
+Please note that this tool is provided as-is and without warranty or support. It does not constitute part of the Cumulocity product suite. 
+This application works best with [Google Chrome](https://www.google.com/chrome/)
